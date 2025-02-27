@@ -1,3 +1,5 @@
+package ArraysOfObjects;
+
 import java.util.ArrayList;
 
 public class FinanceReport {

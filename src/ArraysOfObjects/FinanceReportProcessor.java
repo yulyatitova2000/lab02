@@ -1,3 +1,5 @@
+package ArraysOfObjects;
+
 public class FinanceReportProcessor {
     public static FinanceReport familyFilter(FinanceReport source, char c){
         FinanceReport report = new FinanceReport(source.getFio(), source.getYear(), source.getMonth(), source.getDay());

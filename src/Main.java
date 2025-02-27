@@ -1,3 +1,7 @@
+import ArraysOfObjects.FinanceReport;
+import ArraysOfObjects.FinanceReportProcessor;
+import ArraysOfObjects.Payment;
+
 public class Main {
     public static void main(String[] args) {
         String source = "Hello 12 world Hello 43 world";
